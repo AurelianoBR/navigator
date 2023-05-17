@@ -1,0 +1,22 @@
+{
+  "Cards": [
+    {
+    "imageURL": "https://www.capital.sp.gov.br/fotos-para-noticias/dia-do-prefeito/2019/04-abril/slidertrianon3.jpeg",
+    "titulo": "Um dia no Parque",
+    "horario": "10:00 to 11:00",
+    "dataEvento": "2023-05-25"
+  },
+  {
+   "imageURL": "https://images.hdqwalls.com/download/2023-the-legend-of-zelda-tears-of-the-kingdom-5k-17-1125x2436.jpg",
+    "titulo": "Zeldinha @ Matarazzo",
+    "horario": "10:00 to 17:00",
+    "dataEvento": "2023-05-28"
+  },
+  {
+    "imageURL": "https://www.meetgarden.com.br/fotos/1/204/beach-tenis-012.jpg",
+    "titulo": "Beach @ RoofTop",
+    "horario": "12:00 to 20:00",
+    "dataEvento": "2023-06-10"
+  }
+  ]
+}
