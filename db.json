@@ -8,7 +8,8 @@
     "dataEvento": "2023-05-25",
     "endereco": {
       "nome":"Parque",
-      "endereco":"Rua dos bobos, n0"
+      "endereco":"Rua dos bobos, n0",
+      "poid": 1
     }
   },
   {
@@ -19,7 +20,8 @@
     "dataEvento": "2023-05-28",
     "endereco": {
       "nome":"Parque",
-      "endereco":"Hylure, n2"
+      "endereco":"Hylure, n2",
+      "poid": 2
     }
   },
   {
@@ -30,7 +32,8 @@
     "dataEvento": "2023-06-10",
     "endereco": {
       "nome":"Praia do telhado",
-      "endereco":"Rua dos bobos, n0"
+      "endereco":"Rua dos bobos, n0",
+      "poid": 3
     }
   },
   {
@@ -41,7 +44,8 @@
     "dataEvento": "2023-06-18",
     "endereco": {
       "nome":"Empreendimento",
-      "endereco":"Rua dos bobos, n -1"
+      "endereco":"Rua dos bobos, n -1",
+      "poid": 2
     }
   },
   {
@@ -52,19 +56,8 @@
     "dataEvento": "2023-06-18",
     "endereco": {
       "nome":"Empreendimento 2",
-      "endereco":"Rua dos bobos, n2"
-    }  
-  },
-  {
-    "cardID": 6,
-    "imageURL": "https://www.rfm.com.br/wp-content/uploads/2020/11/torre-mata-atlantica.jpg",
-    "titulo": "Conheça o Empreendimento 3",
-    "horario": "12:00 to 15:00",
-    "dataEvento": "2023-06-18",
-    "endereco": {
-      "nome":"Empreendimento 3",
-      "endereco":"Rua dos bobos, n3"
+      "endereco":"Rua dos bobos, n2",
+      "poid": 1
     }
-  }
   ]
 }
